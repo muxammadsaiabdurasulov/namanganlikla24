@@ -1,0 +1,33 @@
+/* GLOBAL */
+*{
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Rubik' sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4a4b4c;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* CONTAINER */
+.container{
+    max-width: 1300px;
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* RUBIK - 400, 500*/
